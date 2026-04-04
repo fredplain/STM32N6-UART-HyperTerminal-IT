@@ -1,0 +1,18 @@
+# Build
+*/Debug/
+*/Release/
+*.o
+*.d
+*.map
+*.elf
+*.bin
+*.hex
+*.lst
+
+# IDE
+.settings/
+.launches/
+*.launch
+
+# CubeMX generated (garder seulement les sources)
+# On garde tout le reste
