@@ -5,6 +5,6 @@
 ../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:2997:22:LL_APB2_GRP1_DisableClock	16	static
 ../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:3039:22:LL_APB2_GRP1_ForceReset	16	static
 ../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:3081:22:LL_APB2_GRP1_ReleaseReset	16	static
-C:/ST/STM32CubeN6/Projects/STM32N6570-DK/Examples/UART/UART_HyperTerminal_IT/FSBL/Src/stm32n6xx_hal_msp.c:62:6:HAL_MspInit	8	static
-C:/ST/STM32CubeN6/Projects/STM32N6570-DK/Examples/UART/UART_HyperTerminal_IT/FSBL/Src/stm32n6xx_hal_msp.c:84:6:HAL_UART_MspInit	440	static
-C:/ST/STM32CubeN6/Projects/STM32N6570-DK/Examples/UART/UART_HyperTerminal_IT/FSBL/Src/stm32n6xx_hal_msp.c:179:6:HAL_UART_MspDeInit	16	static
+C:/ST/STM32CubeN6/Projects/STM32N6570-DK/Examples/UART/UART_HyperTerminal_IT/FSBL/Src/stm32n6xx_hal_msp.c:62:6:HAL_MspInit	4	static
+C:/ST/STM32CubeN6/Projects/STM32N6570-DK/Examples/UART/UART_HyperTerminal_IT/FSBL/Src/stm32n6xx_hal_msp.c:82:6:HAL_UART_MspInit	440	static
+C:/ST/STM32CubeN6/Projects/STM32N6570-DK/Examples/UART/UART_HyperTerminal_IT/FSBL/Src/stm32n6xx_hal_msp.c:177:6:HAL_UART_MspDeInit	16	static

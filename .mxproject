@@ -82,6 +82,21 @@ SourceFiles=..\C:\git\n6_masterW45\Firmware\Projects\STM32N6570-DK\Examples\PWR\
 HeaderPath=..\..\..\..\..\..\Drivers\STM32N6xx_HAL_Driver\Inc;..\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32N6xx\Include;..\..\..\..\..\..\Drivers\STM32N6xx_HAL_Driver\Inc\Legacy;..\..\..\..\..\..\Drivers\CMSIS\Include;..\..\..\..\..\..\Drivers\BSP\STM32N6570-DK;..\..\..\..\..\..\Drivers\BSP\STM32N6570-DK;..\..\..\..\..\..\Drivers\BSP\STM32N6570-DK;..\FSBL\Inc;..\C:\git\n6_masterW45\Firmware\Projects\STM32N6570-DK\Examples\PWR\PWR_STANDBY_RTC\Appli\Inc;..\C:\git\n6_masterW45\Firmware\Projects\STM32N6570-DK\Examples\PWR\PWR_STANDBY_RTC\Secure_nsclib;
 CDefines=USE_HAL_DRIVER;STM32N657xx;USE_HAL_DRIVER;USE_HAL_DRIVER;USE_HAL_DRIVER;USE_HAL_DRIVER;STM32N657xx;USE_HAL_DRIVER;USE_HAL_DRIVER;USE_HAL_DRIVER;STM32N657xx;USE_HAL_DRIVER;
 
+[FSBL:]
+SourceFiles=;;
+CDefines=USE_HAL_DRIVER;STM32N657xx;USE_HAL_DRIVER;
+
+[Appli:]
+SourceFiles=;;
+CDefines=USE_HAL_DRIVER;STM32N657xx;USE_HAL_DRIVER;
+
+[ExtMemLoader:]
+SourceFiles=;;
+CDefines=STM32N657xx;
+
+[]
+SourceFiles=;;
+
 [PreviousGenFiles]
 HeaderPath=..\FSBL\Inc
 HeaderFiles=stm32n6xx_it.h;stm32n6xx_hal_conf.h;main.h;
